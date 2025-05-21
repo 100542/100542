@@ -4,18 +4,14 @@ Hello and welcome to my GitHub profile! My name is Aaron, and I am a full-stack 
 
 ## 🔭 I Am Currently Working On...
 
-- I am building my first Next.js project for a real client.
-- Practicing modern frameworks (React, Next.js, Laravel).
-- Building my personal portfolio.
+- Continuing my development journey with Next.js.
+- Expanding my highly realistic hacking simulator.
+- Building a AI website building tool, which is my first AI project.
 
-## 💻 My Clients...
+## ☕ Best projects...
 
-- Damiën Heemskerk (Full-Stack)
-- Creative Waves (Grafisch Lyceum Rotterdam) (Back-end)
-
-## ☕ Side Projects...
-
-- I built a chatting application using Node.js/React.js/Vite (visible on my profile)
-- I built a game-hub using the CodeWithMosh React 18 course (not finished yet, but visible on my profile)
-- I built a digital signage using multiple JSON API's and React.ts (visible on my profile)
-- I am building a (fake) crypto trading platform to practice my Laravel skills, visible soon on my profile.
+- Highly realistic hacking simulator, based on the Linux kernel. This project is not open source. It is built using Next.js, Node.js, Electron and PostgreSQL.
+- A operations hub, specifically tailored to advanced police units. Built on Next.js, Node.js & PostgreSQL.
+- A realistic crypto-trading platform built on Laravel to practice the Laravel framework. This will be open-source soon.
+- A front-end focused website for a real client, that advertises the client's skillset.
+- Back-end system for the Grafisch Lyceum Rotterdam that supported their Creative Waves music event.
