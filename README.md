@@ -24,12 +24,12 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Phantomshell OS** | Highly realistic Linux-based simulation. Not open source. | Next.js, Node.js, Electron, PostgreSQL |
+| **Phantomshell OS** | Highly realistic Linux-based simulation. Not open source. | Next.js, Node.js, Electron, PostgreSQL, PSCode (our in-app language) |
 | **Operations Hub** | Tactical dashboard for advanced police units. | Next.js, Node.js, PostgreSQL |
 | **Corevault** | Realistic crypto simulation to practice Laravel. | Laravel, MySQL |
 | **Client Website** | Front-end for a real-world client to promote their services. | HTML, CSS, JS |
 | **Creative Waves Back-end** | Back-end system for the **Grafisch Lyceum Rotterdam** music event. | Node.js, Express, PostgreSQL |
-
+| **Damiën Heemskerk* | Delivering expressive front-end experiences. | Next.js |
 ---
 
 ## 🧠 Skills & Tools
