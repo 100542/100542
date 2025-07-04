@@ -1,30 +1,65 @@
-<h2 align="left">Hi! I am Aaron, a highly experienced Software Developer.</h2>
+# 🚀 Striving For Excellence
 
-###
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=100542&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=100542&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+👋 **Welcome!** I'm **Aaron**, a **Full-Stack Developer** with 2 years of hands-on experience as a student dev. I specialize in building interactive, realistic, and performance-optimized applications from scratch.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" height="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" height="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" height="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" height="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" height="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" height="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🔭 Currently Working On
 
-###
+- 🚧 Leveling up in **Next.js** with advanced SSR & API routing
+- 🧠 Expanding a **highly realistic hacking simulator**
+- 🤖 Building an **AI-based website builder** — my first AI venture!
+
+---
+
+## ☕ Best Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Phantomshell OS** | Highly realistic Linux-based simulation. Not open source. | Next.js, Node.js, Electron, PostgreSQL |
+| **Operations Hub** | Tactical dashboard for advanced police units. | Next.js, Node.js, PostgreSQL |
+| **Corevault** | Realistic crypto simulation to practice Laravel. | Laravel, MySQL |
+| **Client Website** | Front-end for a real-world client to promote their services. | HTML, CSS, JS |
+| **Creative Waves Back-end** | Back-end system for the **Grafisch Lyceum Rotterdam** music event. | Node.js, Express, PostgreSQL |
+
+---
+
+## 🧠 Skills & Tools
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat-square&logo=laravel&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=100542&show_icons=true&theme=tokyonight" alt="Aaron's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=100542&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [Portfolio Website](aaronheemskerk.com) *(Optional if available)*
