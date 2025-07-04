@@ -54,7 +54,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=100542&show_icons=true&theme=tokyonight" alt="Aaron's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=100542&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
