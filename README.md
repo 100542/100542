@@ -29,7 +29,7 @@
 | **Corevault** | Realistic crypto simulation to practice Laravel. | Laravel, MySQL |
 | **Client Website** | Front-end for a real-world client to promote their services. | HTML, CSS, JS |
 | **Creative Waves Back-end** | Back-end system for the **Grafisch Lyceum Rotterdam** music event. | Node.js, Express, PostgreSQL |
-| **Damiën Heemskerk* | Delivering expressive front-end experiences. | Next.js |
+| **Damiën Heemskerk* | Delivering expressive front-end experiences. | Next.js | https://damienheemskerk.com |
 ---
 
 ## 🧠 Skills & Tools
@@ -62,4 +62,4 @@
 
 ## 📫 Let's Connect!
 
-- 🌐 [Portfolio Website](aaronheemskerk.com) *(Optional if available)*
+- 🌐 [Portfolio Website](https://aaronheemskerk.com/)
