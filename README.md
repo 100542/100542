@@ -8,15 +8,16 @@
 
 ---
 
-👋 **Welcome!** I'm **Aaron**, a **Full-Stack Developer** with 2 years of hands-on experience as a student dev. I specialize in building interactive, realistic, and performance-optimized applications from scratch.
+👋 **Welcome!** I'm **Aaron**, a **Full-Stack Developer** with 2 years of hands-on experience as a student dev. I specialize in building interactive, optimized and secure systems that help companies level up.
 
 ---
 
 ## 🔭 Currently Working On
 
-- 🚧 Leveling up in **Next.js** with advanced SSR & API routing
-- 🧠 Expanding a **highly realistic hacking simulator**
-- 🤖 Building an **AI-based website builder** — my first AI venture!
+- Working on **Phantomshell**, a interactive linux simulator.
+- Building websites for real-world clients.
+- Actively studying Node.js and API security.
+- Designing my new personal portfolio (won't be released for a while)
 
 ---
 
