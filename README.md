@@ -1,4 +1,4 @@
-# 🚀 Striving For Excellence
+# 🚀 I build the future.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
@@ -9,15 +9,6 @@
 ---
 
 👋 **Welcome!** I'm **Aaron**, a **Full-Stack Developer** with 2 years of hands-on experience as a student dev. I specialize in building interactive, optimized and secure systems that help companies level up.
-
----
-
-## 🔭 Currently Working On
-
-- Working on **Phantomshell**, a interactive linux simulator.
-- Building websites for real-world clients.
-- Actively studying Node.js and API security.
-- Designing my new personal portfolio (won't be released for a while)
 
 ---
 
@@ -49,14 +40,6 @@
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=100542&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
